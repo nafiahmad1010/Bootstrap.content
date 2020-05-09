@@ -1,0 +1,12 @@
+.sec{
+	border-bottom: 2px solid blue;
+	padding: 20px 0;
+}
+.heading{
+	font-weight: 700;
+	font-size: 30px;
+	color: red;
+}
+.demotext{
+	font-size: 25px;
+}
